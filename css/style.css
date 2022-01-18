@@ -31,6 +31,13 @@ nav a{
   width: 22%;
   display: inline-block;
   background: #FFFFFF;
+  text-decoration: none;
+  border-radius: 5px;
+}
+ a:hover{
+  color: #0000ff;
+  background-color: #B3B3B3;
+  border-radius: 20px;
 }
 
 h2{
